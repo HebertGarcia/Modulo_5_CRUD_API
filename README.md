@@ -52,11 +52,12 @@ Utilizando o Nodejs, foi criado uma plataforma de venda de bebidas para um depó
 	
 ## Configurações
 
-Para executar este projeto, instale-o localmente usando npm:
+Para executar este projeto, instale-o banco de dados (deposito.sql) que se encontra na pasta raiz do projeto, logo em seguida digite os comandos abaixo no terminal.
 
 ```
 $ npm install
 $ npm start
+
 
 
 
