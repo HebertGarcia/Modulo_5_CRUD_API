@@ -28,25 +28,33 @@ Utilizando o Nodejs, foi criado uma plataforma de venda de bebidas para um depó
 	<li>Deleção de um registro.</li>
     </ol>
 <br><br>
+
+## Tecnologias utilizadas
+
+ Bcryptjs
+ Bootstrap
+ Connect-flash
+ Cookie-session
+ Cookie-parser
+ Express
+ Express-flash
+ Express-handlebars
+ Express-session
+ Nodemon
+ Nodejs
+ MySQL
+ Sequelize
+ Session-file-store
+ 
+<br>
 	
 ## Configurações
 
 Para executar este projeto, instale-o localmente usando npm:
 
 ```
-$ npm Bcryptjs
-$ npm Bootstrap
-$ npm Connect-flash
-$ npm Cookie-session
-$ npm Cookie-parser
-$ npm Express
-$ npm Express-flash
-$ npm Express-handlebars
-$ npm Express-session
-$ npm Nodemon
-$ npm Nodejs
-$ npm MySQL
-$ npm Sequelize
-$ npm Session-file-store
+$ npm install
+$ npm start
+
 
 
