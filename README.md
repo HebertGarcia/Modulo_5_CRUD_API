@@ -31,20 +31,22 @@ Utilizando o Nodejs, foi criado uma plataforma de venda de bebidas para um depó
 
 ## Tecnologias utilizadas
 
- Bcryptjs
- Bootstrap
- Connect-flash
- Cookie-session
- Cookie-parser
- Express
- Express-flash
- Express-handlebars
- Express-session
- Nodemon
- Nodejs
- MySQL
- Sequelize
- Session-file-store
+<ol>
+ <ul>Bcryptjs</ul>
+ <ul>Bootstrap</ul>
+ <ul>Connect-flash</ul>
+ <ul>Cookie-session</ul>
+ <ul>Cookie-parser</ul>
+ <ul>Express</ul>
+ <ul>Express-flash</ul>
+ <ul>Express-handlebars</ul>
+ <ul>Express-session</ul>
+ <ul>Nodemon</ul>
+ <ul>Nodejs</ul>
+ <ul>MySQL</ul>
+ <ul>Sequelize</ul>
+ <ul>Session-file-store</ul>
+</ol>   
  
 <br>
 	
