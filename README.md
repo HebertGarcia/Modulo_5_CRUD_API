@@ -6,7 +6,6 @@
 <h1>Curso Programadores Cariocas</h1>
 
 <h2>PROJETO EM GRUPO - Módulo 5 - CRUD API</h2>
-<h3>Projeto Individual Módulo 5 – Facilitando o dia a dia</h3>
 
 <br><br>
 
