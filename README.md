@@ -24,7 +24,7 @@ Utilizando o Nodejs, foi criado uma plataforma de venda de bebidas para um depó
        <li>Listagem de um único registro com base em um parâmetro de rota.</li>
        <li>Inserção de um registro.</li>
 	<li>Modificação de um registro.</li>
-	<li>Deleção de um registro.</li>
+	<li>Remoção de um registro.</li>
     </ol>
 <br><br>
 
