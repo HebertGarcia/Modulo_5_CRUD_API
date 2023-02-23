@@ -18,7 +18,7 @@ identificar as entidades.</i><br>
 ## Informações Gerais
 Utilizando o Nodejs, foi criado uma plataforma de venda de bebidas para um depósito. Através dele, você consegue adicionar produtos com imagens, informando o preço e o tipo da bebida.<br><br>
 
-<b>As rotas a serem desenvolvidas para as entidades são:</b>
+<b>As rotas desenvolvidas:</b>
     <ol>
        <li>Listagem de todos os registros.</li>
        <li>Listagem de um único registro com base em um parâmetro de rota.</li>
