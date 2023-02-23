@@ -4,7 +4,6 @@
 
 <h2>PROJETO EM GRUPO - Módulo 5 - CRUD API</h2>
 
-## PROJETO
 <h1> Depósito ZN </h1>
 
 <br><br>
